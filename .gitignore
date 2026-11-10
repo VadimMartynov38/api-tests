@@ -5,7 +5,7 @@
 
 # IDE system files
 .idea
-.vscode
+.vs
 
 # vendoring cache directory
 .cache
