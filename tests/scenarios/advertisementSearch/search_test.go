@@ -19,10 +19,10 @@ import (
 )
 
 const (
-	existingAdTitle = ""
-	searchBeginning = ""
-	searchMiddle    = ""
-	searchEnd       = ""
+	existingAdTitle = "Selling Fender guitar"
+	searchBeginning = "Selling"
+	searchMiddle    = "Fender"
+	searchEnd       = "guitar"
 )
 
 type TestSuite struct {
